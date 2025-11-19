@@ -3,7 +3,7 @@ import { useInView } from "motion/react";
 import { useRef } from "react";
 import { Twitter } from "lucide-react";
 import Ezekiel from '../assets/Ezekiel.png'; 
-import Alpha from '../assets/Alpha.png';
+import Alpha from '../assets/alpha.png';
 
 const leaders = [
   {
