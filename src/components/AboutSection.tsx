@@ -9,7 +9,7 @@ export function AboutSection() {
 
   return (
     <section id="about" className="relative py-24 overflow-hidden">
-      {/* Background */}
+      {/* main Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-black via-gray-900 to-black" />
       
       {/* Decorative Elements */}
