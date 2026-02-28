@@ -82,7 +82,7 @@ export function Leadership() {
               className="group"
             >
               <div className="relative bg-gradient-to-br from-gray-900 to-black border border-orange-500/20 group-hover:border-orange-500/50 rounded-2xl p-6 sm:p-8 overflow-hidden transition-all duration-300">
-                {/* Animated glow effect */}
+                {/* Animated glow effect now*/}
                 <motion.div
                   className={`absolute inset-0 bg-gradient-to-br ${leader.gradient} opacity-0 group-hover:opacity-10 transition-opacity duration-500`}
                   animate={{
