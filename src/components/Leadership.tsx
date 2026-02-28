@@ -28,7 +28,7 @@ export function Leadership() {
 
   return (
     <div ref={ref} className="py-16 sm:py-24 md:py-32 px-4 relative overflow-hidden">
-      {/* Background decoration */}
+      {/* Background decoration added*/}
       <motion.div
         className="absolute top-1/4 right-1/4 w-96 h-96 bg-orange-500/10 rounded-full blur-3xl"
         animate={{
