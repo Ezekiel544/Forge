@@ -114,7 +114,7 @@ export function Hero() {
           <Flame className="text-orange-500 w-5 h-5 sm:w-6 sm:h-6" />
         </motion.div>
 
-        {/* CTA Buttons */}
+        {/* CTA Buttons included*/}
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}

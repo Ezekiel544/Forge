@@ -69,7 +69,7 @@ export function Features() {
 
   return (
     <div ref={ref} className="py-16 sm:py-24 md:py-32 px-4 relative overflow-hidden">
-      {/* Background decoration */}
+      {/* Background decoration completely added*/}
       <motion.div
         className="absolute top-1/2 left-0 w-96 h-96 bg-red-500/10 rounded-full blur-3xl"
         animate={{
@@ -127,7 +127,7 @@ export function Features() {
                 <h3 className="text-lg sm:text-xl mb-2 sm:mb-3 text-white">{feature.title}</h3>
                 <p className="text-sm sm:text-base text-gray-400 leading-relaxed">{feature.description}</p>
 
-                {/* Animated corner accent */}
+                {/* Animated corner accent succesfully added*/}
                 <motion.div
                   className={`absolute top-0 right-0 w-20 h-20 bg-gradient-to-br ${feature.gradient} opacity-10 rounded-bl-full`}
                   animate={{
