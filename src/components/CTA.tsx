@@ -108,7 +108,7 @@ export function CTA() {
             <div className="h-px w-12 sm:w-20 bg-gradient-to-l from-transparent to-orange-500" />
           </motion.div>
 
-          {/* Social buttons */}
+          {/* Social buttons added*/}
           <motion.div
             initial={{ opacity: 0, y: 30 }}
             animate={isInView ? { opacity: 1, y: 0 } : {}}
