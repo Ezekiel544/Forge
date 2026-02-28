@@ -134,7 +134,7 @@ export function Leadership() {
                   {/* Name */}
                   <h3 className="text-xl sm:text-2xl mb-2 text-white">{leader.name}</h3>
 
-                  {/* Handle */}
+                  {/* Handle added*/}
                   <motion.a
                     href={`https://twitter.com/${leader.handle.substring(1)}`}
                     target="_blank"
