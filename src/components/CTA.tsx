@@ -86,7 +86,7 @@ export function CTA() {
             </span>
           </motion.h2>
 
-          {/* Warning text */}
+          {/* Warning text here*/}
           <motion.p
             initial={{ opacity: 0, y: 30 }}
             animate={isInView ? { opacity: 1, y: 0 } : {}}
