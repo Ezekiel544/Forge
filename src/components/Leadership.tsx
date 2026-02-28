@@ -123,7 +123,7 @@ export function Leadership() {
                     </div>
                   </motion.div>
 
-                  {/* Role Badge added*/}
+                  {/* Role Badge added successfully*/}
                   <motion.div
                     className={`inline-block px-3 sm:px-4 py-1 mb-3 sm:mb-4 rounded-full bg-gradient-to-r ${leader.gradient} text-white text-xs sm:text-sm`}
                     whileHover={{ scale: 1.05 }}
