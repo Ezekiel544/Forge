@@ -8,7 +8,7 @@ export function About() {
 
   return (
     <div id="about" ref={ref} className="py-16 sm:py-24 md:py-32 px-4 relative overflow-hidden">
-      {/* Background decoration added*/}
+      {/* Background decoration added now*/}
       <motion.div
         className="absolute top-0 right-0 w-96 h-96 bg-orange-500/10 rounded-full blur-3xl"
         animate={{
