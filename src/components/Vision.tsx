@@ -24,7 +24,7 @@ export function Vision() {
 
   return (
     <div ref={ref} className="py-16 sm:py-24 md:py-32 px-4 relative overflow-hidden">
-      {/* Animated background */}
+      {/* Animated background added*/}
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-orange-950/20 to-transparent" />
       <motion.div
         className="absolute bottom-0 right-1/4 w-96 h-96 bg-yellow-500/10 rounded-full blur-3xl"
