@@ -12,7 +12,7 @@ export function AboutSection() {
       {/* main Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-black via-gray-900 to-black" />
       
-      {/* Decorative Elements */}
+      {/* Decorative Elements added */}
       <div className="absolute inset-0 opacity-20">
         <div className="absolute top-20 left-10 w-72 h-72 bg-orange-500/30 rounded-full blur-3xl" />
         <div className="absolute bottom-20 right-10 w-72 h-72 bg-yellow-500/30 rounded-full blur-3xl" />
