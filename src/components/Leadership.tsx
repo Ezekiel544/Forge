@@ -150,7 +150,7 @@ export function Leadership() {
                   <p className="text-sm sm:text-base text-gray-400 leading-relaxed">{leader.description}</p>
                 </div>
 
-                {/* Decorative corner */}
+                {/* Decorative corner added*/}
                 <motion.div
                   className={`absolute bottom-0 right-0 w-32 h-32 bg-gradient-to-tl ${leader.gradient} opacity-5 rounded-tl-full`}
                   animate={{
