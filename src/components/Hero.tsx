@@ -90,7 +90,7 @@ export function Hero() {
           </span>
         </motion.h1>
 
-        {/* Subtitle */}
+        {/* Subtitle added*/}
         <motion.p
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
