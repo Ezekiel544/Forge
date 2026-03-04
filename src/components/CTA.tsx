@@ -186,7 +186,7 @@ export function CTA() {
           </motion.div>
         </motion.div>
 
-        {/* Decorative elements */}
+        {/* Decorative elements added*/}
         <div className="mt-12 sm:mt-20 flex justify-center gap-4 sm:gap-8">
           {[0, 1, 2, 3, 4].map((i) => (
             <motion.div
