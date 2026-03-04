@@ -10,7 +10,7 @@ export function CTA() {
 
   return (
     <div id="join" ref={ref} className="py-16 sm:py-24 md:py-32 px-4 relative overflow-hidden">
-      {/* Animated background */}
+      {/* Animated background added*/}
       <div className="absolute inset-0 bg-gradient-to-b from-transparent via-orange-950/30 to-transparent" />
       <motion.div
         className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[800px] bg-gradient-to-br from-orange-500/20 via-red-500/20 to-yellow-500/20 rounded-full blur-3xl"
