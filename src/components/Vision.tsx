@@ -125,7 +125,7 @@ export function Vision() {
           ))}
         </div>
 
-        {/* This is bigger than a community */}
+        {/* Forge is bigger than a community */}
         <motion.div
           initial={{ opacity: 0, y: 50 }}
           animate={isInView ? { opacity: 1, y: 0 } : {}}
