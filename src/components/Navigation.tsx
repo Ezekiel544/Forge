@@ -45,7 +45,7 @@ export function Navigation() {
             <img src={forgeLogo} alt="Forge Community" className="h-10 w-auto" />
           </motion.a>
 
-          {/* Desktop Navigation */}
+          {/* Desktop Navigation here*/}
           <div className="hidden md:flex items-center gap-8">
             {navItems.map((item, index) => (
               <motion.a
