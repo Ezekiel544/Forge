@@ -69,7 +69,7 @@ export function Features() {
 
   return (
     <div ref={ref} className="py-16 sm:py-24 md:py-32 px-4 relative overflow-hidden">
-      {/* Background decoration completely added here*/}
+      {/* Background decoration completely added*/}
       <motion.div
         className="absolute top-1/2 left-0 w-96 h-96 bg-red-500/10 rounded-full blur-3xl"
         animate={{
