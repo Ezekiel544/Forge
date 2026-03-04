@@ -167,7 +167,7 @@ export function Leadership() {
           ))}
         </div>
 
-        {/* Motivational quote */}
+        {/* Motivational quote added*/}
         <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
           animate={isInView ? { opacity: 1, scale: 1 } : {}}
