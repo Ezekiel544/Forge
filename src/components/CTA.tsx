@@ -206,7 +206,7 @@ export function CTA() {
         </div>
       </div>
 
-      {/* Footer part*/}
+      {/* Footer part added*/}
       <motion.div
         initial={{ opacity: 0 }}
         animate={isInView ? { opacity: 1 } : {}}
