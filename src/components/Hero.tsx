@@ -78,7 +78,7 @@ export function Hero() {
           </div>
         </motion.div>
 
-        {/* Main heading */}
+        {/* Main heading added*/}
         <motion.h1
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
