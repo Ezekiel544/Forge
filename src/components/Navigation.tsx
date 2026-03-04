@@ -35,7 +35,7 @@ export function Navigation() {
     >
       <div className="container mx-auto px-4 lg:px-8">
         <div className="flex items-center justify-between h-20">
-          {/* Logo h*/}
+          {/* Logo here*/}
           <motion.a
             href="#home"
             className="flex items-center gap-3"
