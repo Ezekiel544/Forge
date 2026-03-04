@@ -44,7 +44,7 @@ export function Hero() {
       ))}
 
       <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
-        {/* Logo */}
+        {/* Logo added*/}
         <motion.div
           initial={{ scale: 0, rotate: -180 }}
           animate={{ scale: 1, rotate: 0 }}
