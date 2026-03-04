@@ -77,7 +77,7 @@ export function Navigation() {
             </motion.a>
           </div>
 
-          {/* Mobile Menu Button section*/}
+          {/* Mobile Menu Button section here*/}
           <button
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             className="md:hidden text-white p-2"
