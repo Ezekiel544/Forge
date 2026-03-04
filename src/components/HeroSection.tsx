@@ -37,7 +37,7 @@ export function HeroSection() {
       {/* Grid Pattern Overlay */}
       <div className="absolute inset-0 bg-[linear-gradient(to_right,#ffffff05_1px,transparent_1px),linear-gradient(to_bottom,#ffffff05_1px,transparent_1px)] bg-[size:4rem_4rem]" />
 
-      {/* Content */}
+      {/* Content added*/}
       <div className="relative z-10 container mx-auto px-4 text-center">
         <motion.div
           initial={{ scale: 0, rotate: -180 }}
