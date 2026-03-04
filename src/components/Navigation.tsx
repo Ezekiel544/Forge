@@ -86,7 +86,7 @@ export function Navigation() {
           </button>
         </div>
 
-        {/* Mobile Menu section*/}
+        {/* Mobile Menu section here*/}
         {isMobileMenuOpen && (
           <motion.div
             initial={{ opacity: 0, height: 0 }}
