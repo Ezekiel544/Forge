@@ -96,7 +96,7 @@ export function CTA() {
             <span className="text-red-400">⚠️ Warning:</span> Once you enter The Forge, there's no going back to average.
           </motion.p>
 
-          {/* Divider */}
+          {/* Divider added*/}
           <motion.div
             className="flex justify-center items-center gap-3 sm:gap-4 mb-8 sm:mb-12"
             initial={{ opacity: 0, scale: 0 }}
