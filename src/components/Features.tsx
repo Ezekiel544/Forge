@@ -127,7 +127,7 @@ export function Features() {
                 <h3 className="text-lg sm:text-xl mb-2 sm:mb-3 text-white">{feature.title}</h3>
                 <p className="text-sm sm:text-base text-gray-400 leading-relaxed">{feature.description}</p>
 
-                {/* Animated corner accent succesfully added here*/}
+                {/* Animated corner accent  added here*/}
                 <motion.div
                   className={`absolute top-0 right-0 w-20 h-20 bg-gradient-to-br ${feature.gradient} opacity-10 rounded-bl-full`}
                   animate={{
